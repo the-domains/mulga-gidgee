@@ -1,0 +1,28 @@
+name: Mulga Gidgee
+favicon: null
+layout_spectrum: 0.16353635909035802
+typography_spectrum: 0.198945889249444
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.3509851295966655
+  lightness: 0.5617344900965691
+  saturation: 0.44034428521990776
+  rhythmicContrast: 0.45536486920900643
+purpose: []
