@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-11T01:34:03.658Z'
-dateModified: '2016-01-11T01:33:53.768Z'
+datePublished: '2016-01-11T01:43:49.952Z'
+dateModified: '2016-01-11T01:43:45.664Z'
 title: Our Values
 author: []
 sourcePath: _posts/2016-01-11-our-values.md
@@ -22,7 +22,7 @@ url: our-values/index.html
 _type: WebPage
 
 ---
-**IT'S ALL ABOUT RELATIONSHIPS**
+## IT'S ALL ABOUT RELATIONSHIPS
 
 & what matters... 
 
@@ -33,6 +33,8 @@ story to inspire and the capacity to positively impact
 judges
 
 **Congruency Matters**- Talking and walking
+
+_****_
 
 _****_
 
