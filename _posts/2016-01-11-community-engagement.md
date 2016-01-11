@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-11T02:36:24.471Z'
-dateModified: '2016-01-11T02:36:20.044Z'
+datePublished: '2016-01-11T02:52:44.725Z'
+dateModified: '2016-01-11T02:52:38.626Z'
 title: Community Engagement
 author: []
 sourcePath: _posts/2016-01-11-community-engagement.md
@@ -88,7 +88,6 @@ Let Aboriginal people inform all aspects of
 "how" it should happen. When all this comes together --- That is RIGHT WAY ---
 When not sure about any of the rights go to number 1 --- Find the Right PEOPLE
 and ask them.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3572285-cf77-4bd5-bd4d-31d7a3276251.png)
 
 **Community Engagement projects have
 included:**
@@ -102,3 +101,4 @@ included:**
 2010 - 2012 PaCE x2, Maningrida 
 
 2009 -- 2010 -- Marngarr Resource Centre, Gunyangara
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3572285-cf77-4bd5-bd4d-31d7a3276251.png)
