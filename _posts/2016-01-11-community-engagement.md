@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-11T02:23:16.628Z'
-dateModified: '2016-01-11T02:23:10.767Z'
+datePublished: '2016-01-11T02:34:12.732Z'
+dateModified: '2016-01-11T02:34:08.118Z'
 title: Community Engagement
 author: []
 sourcePath: _posts/2016-01-11-community-engagement.md
@@ -47,7 +47,7 @@ liaise with local agencies such as the school or health clinic. Be aware that
 there is a high turnover of non-Indigenous staff in these organisations and in
 many cases a local Aboriginal person (Teacher Assistant or Aboriginal Health
 Worker) may have better long--term knowledge to assist you.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8f549a7f49a630ac0b1515bcc9d2b7c627687857.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/aaeb65d9294022da632ec4046b05ef367cd1594b.png)
 
 **2\. Right Time **
 
