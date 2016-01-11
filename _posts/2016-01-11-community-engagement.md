@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-11T03:42:02.025Z'
-dateModified: '2016-01-11T03:41:56.389Z'
+datePublished: '2016-01-11T04:07:42.253Z'
+dateModified: '2016-01-11T04:07:37.631Z'
 title: Community Engagement
 author: []
 sourcePath: _posts/2016-01-11-community-engagement.md
@@ -101,4 +101,6 @@ included:**
 2010 - 2012 PaCE x2, Maningrida 
 
 2009 -- 2010 -- Marngarr Resource Centre, Gunyangara
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3572285-cf77-4bd5-bd4d-31d7a3276251.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8869e135-63e4-4f30-921a-e02a72d14c09.jpg)
+
+_Australian Indigenous Education Foundation Cultural Competency & Immersion Experience Maningrida 2014_
