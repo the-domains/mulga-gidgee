@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-11T02:32:29.823Z'
-dateModified: '2016-01-11T02:32:16.844Z'
+datePublished: '2016-01-11T04:09:40.903Z'
+dateModified: '2016-01-11T04:09:32.534Z'
 title: Cultural Competency
 author: []
+sourcePath: _posts/2016-01-11-cultural-competency.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-11-cultural-competency.md
-published: true
 url: cultural-competency/index.html
 _type: WebPage
 
@@ -38,6 +38,10 @@ Awareness of one's own cultural worldview,
 Developing cultural competence results in
 an ability to understand, communicate with, and effectively interact with
 people across cultures..."\*
+
+_\*Mercedes Martin & Billy Vaughn (2007).
+"Strategic Diversity & Inclusion Management" magazine, pp. 31-36\.
+DTUI Publications Division: San Francisco, California, USA._
 
 Using these core frameworks and Hoefstede's
 Cultural Dimensions Theory, Scott seeks to take participants on a
@@ -80,6 +84,6 @@ modules.
 > appreciation of cultural competency and learnt some useful frameworks for
 > understanding cultural differences ..."
 
-_\*Mercedes Martin & Billy Vaughn (2007).
-"Strategic Diversity & Inclusion Management" magazine, pp. 31-36\.
-DTUI Publications Division: San Francisco, California, USA._
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d37634d-3e08-496b-9b10-50896a7a9649.jpg)
+
+_Australian Indigenous Education Foundation Cultural Competency & Immersion Experience Maningrida 2014_
