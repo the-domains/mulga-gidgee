@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-11T01:25:10.145Z'
-dateModified: '2016-01-11T01:24:24.283Z'
+datePublished: '2016-01-11T01:27:59.653Z'
+dateModified: '2016-01-11T01:27:54.576Z'
 title: Our Values
 author: []
 sourcePath: _posts/2016-01-11-our-values.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: our-values/index.html
-_type: Article
+_type: WebPage
 
 ---
 IT'S ALL ABOUT RELATIONSHIPS
