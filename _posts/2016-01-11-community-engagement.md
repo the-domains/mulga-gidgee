@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-11T01:53:16.942Z'
-dateModified: '2016-01-11T01:52:56.352Z'
+datePublished: '2016-01-11T01:53:54.064Z'
+dateModified: '2016-01-11T01:53:38.534Z'
 title: Community Engagement
 author: []
+sourcePath: _posts/2016-01-11-community-engagement.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-11-community-engagement.md
-published: true
 url: community-engagement/index.html
 _type: WebPage
 
