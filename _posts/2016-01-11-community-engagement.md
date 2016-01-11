@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-11T04:07:42.253Z'
-dateModified: '2016-01-11T04:07:37.631Z'
+datePublished: '2016-01-11T04:11:54.113Z'
+dateModified: '2016-01-11T04:11:48.724Z'
 title: Community Engagement
 author: []
 sourcePath: _posts/2016-01-11-community-engagement.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: community-engagement/index.html
-_type: WebPage
+_type: Article
 
 ---
 Mulga Gidgee has worked across Australia
@@ -101,6 +101,4 @@ included:**
 2010 - 2012 PaCE x2, Maningrida 
 
 2009 -- 2010 -- Marngarr Resource Centre, Gunyangara
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8869e135-63e4-4f30-921a-e02a72d14c09.jpg)
-
-_Australian Indigenous Education Foundation Cultural Competency & Immersion Experience Maningrida 2014_
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d24ad45-e326-4efc-af11-6e903cc09035.jpg)
