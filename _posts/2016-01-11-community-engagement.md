@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-11T02:34:12.732Z'
-dateModified: '2016-01-11T02:34:08.118Z'
+datePublished: '2016-01-11T02:36:24.471Z'
+dateModified: '2016-01-11T02:36:20.044Z'
 title: Community Engagement
 author: []
 sourcePath: _posts/2016-01-11-community-engagement.md
@@ -47,14 +47,13 @@ liaise with local agencies such as the school or health clinic. Be aware that
 there is a high turnover of non-Indigenous staff in these organisations and in
 many cases a local Aboriginal person (Teacher Assistant or Aboriginal Health
 Worker) may have better long--term knowledge to assist you.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/aaeb65d9294022da632ec4046b05ef367cd1594b.png)
 
 **2\. Right Time **
 
 When organising community contacts, or
 visits, it is crucial to ensure that you align with family and broader
 community priorities. Funerals, ceremonies, employment and other community
-business can often take priority. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/caf9e74a-83f1-4b49-9c4d-241ac127fa59.png)
+business can often take priority. 
 
 **3\. Right Place **
 
@@ -66,7 +65,6 @@ facilities? Are you bringing catering or buying local? How will you get from
 the airport? Do you have a backup plan for communications if your transport is
 delayed? Will the host agency and/or Community agents require payment for their
 assistance?
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/38e12970-f924-4735-a6eb-ed2f7b5dd97a.png)
 
 **4\. Right Language **
 
@@ -83,7 +81,6 @@ an important part of being understood.
 As a general rule, when communicating with
 ESL clients speak clearly and check whenever possible that the message has been
 understood.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d98734fb-9eeb-4b0a-bd77-5e58a22c7b3f.png)
 
 **5\. Right Way**
 
