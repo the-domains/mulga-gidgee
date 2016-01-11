@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-11T03:57:35.094Z'
-dateModified: '2016-01-11T03:57:21.323Z'
+datePublished: '2016-01-11T04:00:42.142Z'
+dateModified: '2016-01-11T04:00:35.665Z'
 title: Mentoring
 author: []
+sourcePath: _posts/2016-01-11-mentoring.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-11-mentoring.md
-published: true
 url: mentoring/index.html
 _type: WebPage
 
