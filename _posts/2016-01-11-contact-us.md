@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-13T12:01:37.318Z'
-dateModified: '2016-01-13T07:02:00.437Z'
+datePublished: '2016-01-13T22:47:06.710Z'
+dateModified: '2016-01-13T22:04:26.277Z'
 title: Contact Us
 author: []
 sourcePath: _posts/2016-01-11-contact-us.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: contact-us/index.html
-_type: Article
+_type: WebPage
 
 ---
 Mulga Gidgee Pty Ltd 
