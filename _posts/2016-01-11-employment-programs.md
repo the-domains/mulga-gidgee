@@ -6,26 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-11T03:50:26.750Z'
-dateModified: '2016-01-11T03:50:01.028Z'
+datePublished: '2016-01-15T22:15:22.078Z'
+dateModified: '2016-01-15T22:05:03.814Z'
 title: Employment Programs
 author: []
+sourcePath: _posts/2016-01-11-employment-programs.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-11-employment-programs.md
-published: true
 url: employment-programs/index.html
 _type: WebPage
 
 ---
-Since 2006 Mulga Gidgee has been a member of several government 
-panels, including the former Department of Education, Employment and 
-Workplace Relations -- Indigenous Employment Providers and Economic 
-Development and Business Support Panels. 
+**Employment Services, including Indigenous Employment Strategies**
 
 Prior to establishing 
 Mulga Gidgee, Scott McCall had 20 years of Indigenous employment and 
