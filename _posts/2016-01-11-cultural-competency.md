@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-11T04:09:59.128Z'
-dateModified: '2016-01-11T04:09:53.262Z'
+datePublished: '2016-01-15T21:59:16.612Z'
+dateModified: '2016-01-15T21:59:10.884Z'
 title: Cultural Competency
 author: []
 sourcePath: _posts/2016-01-11-cultural-competency.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: cultural-competency/index.html
-_type: Article
+_type: WebPage
 
 ---
 Cultural competence has many definitions
