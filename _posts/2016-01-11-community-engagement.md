@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-11T04:13:25.764Z'
-dateModified: '2016-01-11T04:13:21.401Z'
+datePublished: '2016-01-15T21:59:48.467Z'
+dateModified: '2016-01-15T21:59:44.747Z'
 title: Community Engagement
 author: []
 sourcePath: _posts/2016-01-11-community-engagement.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: community-engagement/index.html
-_type: Article
+_type: WebPage
 
 ---
 Mulga Gidgee has worked across Australia
