@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-16T06:48:21.831Z'
-dateModified: '2016-01-16T06:48:21.634Z'
+datePublished: '2016-01-16T06:48:21.938Z'
+dateModified: '2016-01-16T06:48:21.753Z'
 title: Mentoring
 author: []
 sourcePath: _posts/2016-01-11-mentoring.md
