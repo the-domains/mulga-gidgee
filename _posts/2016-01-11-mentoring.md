@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-11T04:00:42.142Z'
-dateModified: '2016-01-11T04:00:35.665Z'
+datePublished: '2016-01-16T06:48:18.722Z'
+dateModified: '2016-01-16T06:48:13.167Z'
 title: Mentoring
 author: []
 sourcePath: _posts/2016-01-11-mentoring.md
@@ -35,33 +35,6 @@ corporations, government departments, charities and schools.
 To have Ways of the Mentor at your
 organisation, or to attend an upcoming workshop, please contact us.
 
-An outline of the day is below:
-
-A Practical Guide to being an Effective
-Mentor
-
-With a particular focus on mentoring in
-cross-cultural environments, this one-day workshop explores:
-
-- Getting started
-
-- The mentoring process
-
-- Mentoring plans
-
-- Getting there; the Ways of The Mentor
-Toolbox
-
-- Know yourself
-
-- Sharing
-
-- Challenging
-
-- Cultural competency
-
-- Mentoring for emotional intelligence
-
 The workshop combines brief lectures with
 structured interactions to allow participants to practice and refine specific
 mentoring skills. The workshop includes the opportunity to identify mentoring
@@ -70,9 +43,7 @@ core competencies for effective mentoring.
 
 Mulga Gidgee also happily hosts the [NT
 Employment Mentors Network][1]
-undefined
-undefined
-undefined
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/124226d0-a46b-4fea-819a-4e9459bdc6d6.jpg)
 
 [0]: www.waysofthementor.com
 [1]: www.mentornt.net.au
