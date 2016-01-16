@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-15T21:59:16.679Z'
-dateModified: '2016-01-15T21:59:10.884Z'
+datePublished: '2016-01-16T06:29:56.467Z'
+dateModified: '2016-01-16T06:29:52.525Z'
 title: Cultural Competency
 author: []
 sourcePath: _posts/2016-01-11-cultural-competency.md
@@ -84,6 +84,6 @@ modules.
 > appreciation of cultural competency and learnt some useful frameworks for
 > understanding cultural differences ..."
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d37634d-3e08-496b-9b10-50896a7a9649.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c953b8de77bc08ea94c4361216d1d318ccb7bd4a.jpg)
 
 _Australian Indigenous Education Foundation Cultural Competency & Immersion Experience Maningrida 2014_
