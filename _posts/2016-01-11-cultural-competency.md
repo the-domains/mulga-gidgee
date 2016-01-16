@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-16T06:29:58.987Z'
-dateModified: '2016-01-16T06:29:58.432Z'
+datePublished: '2016-01-16T06:39:48.185Z'
+dateModified: '2016-01-16T06:39:43.154Z'
 title: Cultural Competency
 author: []
 sourcePath: _posts/2016-01-11-cultural-competency.md
@@ -24,24 +24,24 @@ _type: WebPage
 ---
 Cultural competence has many definitions
 and refers to an ability to interact effectively with people of different
-cultures. One definition says "...Cultural competence comprises four components: 
+cultures. 
 
-(a)
-Awareness of one's own cultural worldview, 
+One definition says:
 
-(b) Attitude towards cultural differences, 
+_"...Cultural competence comprises four components: _
 
-(c) Knowledge of different cultural practices and worldviews, and 
+_(a)
+Awareness of one's own cultural worldview, _
 
-(d) Cross-cultural skills. 
+_(b) Attitude towards cultural differences, _
 
-Developing cultural competence results in
+_(c) Knowledge of different cultural practices and worldviews, and _
+
+_(d) Cross-cultural skills. _
+
+_Developing cultural competence results in
 an ability to understand, communicate with, and effectively interact with
-people across cultures..."\*
-
-_\*Mercedes Martin & Billy Vaughn (2007).
-"Strategic Diversity & Inclusion Management" magazine, pp. 31-36\.
-DTUI Publications Division: San Francisco, California, USA._
+people across cultures..."_\*
 
 Using these core frameworks and Hoefstede's
 Cultural Dimensions Theory, Scott seeks to take participants on a
@@ -86,4 +86,6 @@ modules.
 
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c953b8de77bc08ea94c4361216d1d318ccb7bd4a.jpg)
 
-_Australian Indigenous Education Foundation Cultural Competency & Immersion Experience Maningrida 2014_
+__\*Mercedes Martin & Billy Vaughn (2007).
+"Strategic Diversity & Inclusion Management" magazine, pp. 31-36\.
+DTUI Publications Division: San Francisco, California, USA.__
