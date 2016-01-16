@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-16T06:30:33.301Z'
-dateModified: '2016-01-16T06:30:31.975Z'
+datePublished: '2016-01-16T07:58:35.666Z'
+dateModified: '2016-01-16T07:58:31.584Z'
 title: Community Engagement
 author: []
 sourcePath: _posts/2016-01-11-community-engagement.md
@@ -101,4 +101,4 @@ included:**
 2010 - 2012 PaCE x2, Maningrida 
 
 2009 -- 2010 -- Marngarr Resource Centre, Gunyangara
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e35135213ea512ab618d3f4fc7eda5f34af6af94.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/83850fbd0b05ccc082927f90c594cf959978961e.jpg)
