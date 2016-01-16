@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-16T04:40:44.058Z'
-dateModified: '2016-01-16T04:40:43.666Z'
+datePublished: '2016-01-16T06:29:03.286Z'
+dateModified: '2016-01-16T06:28:58.877Z'
 title: 'Employment '
 author: []
 sourcePath: _posts/2016-01-11-employment-programs.md
@@ -63,4 +63,4 @@ community, including as Diversity Programs Coordinator for the Qantas Group and 
 employees; Implicit in the strategy was to ensure KPI measures of Group 
 Managers included the tying of performance bonuses to Indigenous 
 employment targets._
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3ef80f5-9dca-4c12-b408-244269253f9c.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bc573323fe211af95a858986d6ae7339a4ccbf9a.jpg)
