@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-15T22:32:36.445Z'
-dateModified: '2016-01-15T22:32:35.201Z'
+datePublished: '2016-01-16T04:40:43.652Z'
+dateModified: '2016-01-16T04:40:39.806Z'
 title: 'Employment '
 author: []
 sourcePath: _posts/2016-01-11-employment-programs.md
@@ -26,14 +26,14 @@ _type: WebPage
 
 Mulga Gidgee has provided employment services to various 
 corporate, community & government clients across Australia, 
-including****
+including:****
 
-**Ausgrid** (formerly Energy Australia), 
+**Ausgrid **(formerly Energy Australia), 
 Pre-employment preparation, Mentor development program and Cross 
-Cultural Awareness Training, annually since 2007 (7 years)
+Cultural Awareness Training, annually since 2007
 
 _**Department of Defence -****Indigenous Employment Strategy 2012-2017**_; 60,000
-employees; Implicit in the strategy was to pivot it on the foundational
+employees, Tri-forces & Department; Implicit in the strategy was to pivot it on the foundational
 priority of having an accountable and informed program. This ensured 
 optimum program governance arrangements, specific accountabilities and 
 the robustness of measures across the overall strategy.
