@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-16T06:43:28.245Z'
-dateModified: '2016-01-16T06:43:27.748Z'
+datePublished: '2016-01-16T06:43:28.431Z'
+dateModified: '2016-01-16T06:43:28.188Z'
 title: Our Values
 author: []
 sourcePath: _posts/2016-01-11-our-values.md
