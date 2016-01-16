@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-13T07:00:12.520Z'
-dateModified: '2016-01-11T05:02:59.492Z'
+datePublished: '2016-01-16T06:43:25.625Z'
+dateModified: '2016-01-16T06:43:20.362Z'
 title: Our Values
 author: []
 sourcePath: _posts/2016-01-11-our-values.md
@@ -37,22 +37,3 @@ judges
 _****_
 
 _****_
-
-_**Why Mulga Gidgee?**_
-
-_The Mulga and Gidgee trees are members of
-the Acacia / wattle family. They are both trees that thrive in challenging
-environments and provide nutrients and protection that allow a more diverse eco
-system to flourish under their influence. _
-
-_The Mulga is the faster growing of the two
-and provides in botanical terms a relatively quick fix before maturing and
-recycling its goodness for the benefits of the other plants that have come
-behind it. _
-
-_The Gidgee tree whilst fulfilling a similar
-role is there for the long haul and may grow for many hundreds of years; the
-slow growing nature of the tree produces one of the hardest and most durable
-timbers found in Australia. These two trees represent the fundamental
-philosophy of the company which is that of Organic Sustainable Australian
-solutions for the short and long term._
