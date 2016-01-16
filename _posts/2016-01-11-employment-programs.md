@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-16T07:50:07.212Z'
-dateModified: '2016-01-16T07:50:06.038Z'
+datePublished: '2016-01-16T08:01:49.981Z'
+dateModified: '2016-01-16T08:01:46.937Z'
 title: 'Indigenous Employment '
 author: []
 sourcePath: _posts/2016-01-11-employment-programs.md
@@ -42,7 +42,7 @@ _**Wadeye Regional Boarding Facility Local Employment Implementation Strategy (2
 
 **Australian
 Defence Force, Defence Indigenous Development Program (DIDP)**; remote 
-area pre-employment curriculum and participant mentoring (2 years)****
+area pre-employment curriculum and participant mentoring
 
 **_Energy Australia Diversity Strategy (2010)_**; included attract, employ, retain and develop strategies for broader diversity groups including Indigenous.
 
@@ -63,4 +63,4 @@ community, including as Diversity Programs Coordinator for the Qantas Group and 
 employees; Implicit in the strategy was to ensure KPI measures of Group 
 Managers included the tying of performance bonuses to Indigenous 
 employment targets._
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bc573323fe211af95a858986d6ae7339a4ccbf9a.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7502564080e36e74f3f66be5e85facae43e96644.jpg)
