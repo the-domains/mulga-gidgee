@@ -7,7 +7,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-16T06:44:52.621Z'
+datePublished: '2016-01-16T06:44:52.716Z'
 dateModified: '2016-01-16T06:44:52.424Z'
 title: Our Values
 author: []
