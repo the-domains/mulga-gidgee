@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-16T23:21:50.627Z'
-dateModified: '2016-01-16T23:21:50.214Z'
+datePublished: '2016-01-17T00:12:40.576Z'
+dateModified: '2016-01-17T00:12:36.955Z'
 title: Governance
 author: []
 sourcePath: _posts/2016-01-16-governance.md
