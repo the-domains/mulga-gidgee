@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-17T01:37:35.947Z'
-dateModified: '2016-01-17T01:37:34.913Z'
+datePublished: '2016-01-17T01:37:36.327Z'
+dateModified: '2016-01-17T01:37:35.451Z'
 title: Cultural Competency
 author: []
 sourcePath: _posts/2016-01-11-cultural-competency.md
