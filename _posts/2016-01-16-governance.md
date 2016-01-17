@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-16T22:35:45.348Z'
-dateModified: '2016-01-16T22:35:18.621Z'
+datePublished: '2016-01-16T23:21:49.300Z'
+dateModified: '2016-01-16T23:21:45.784Z'
 title: Governance
+author: []
+sourcePath: _posts/2016-01-16-governance.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-author: []
-sourcePath: _posts/2016-01-16-governance.md
-published: true
 url: governance/index.html
 _type: WebPage
 
