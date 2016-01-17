@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-17T00:12:23.687Z'
-dateModified: '2016-01-17T00:12:23.555Z'
+description: Ways of the Mentor
+datePublished: '2016-01-17T01:35:43.540Z'
+dateModified: '2016-01-17T01:35:34.152Z'
 title: Mentoring
 author: []
 sourcePath: _posts/2016-01-11-mentoring.md
