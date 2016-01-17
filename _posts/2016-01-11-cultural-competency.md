@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-17T01:37:27.496Z'
+datePublished: '2016-01-17T01:37:27.581Z'
 dateModified: '2016-01-17T01:37:26.265Z'
 title: Cultural Competency
 author: []
