@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Ways of the Mentor
-datePublished: '2016-01-17T01:35:52.486Z'
-dateModified: '2016-01-17T01:35:52.177Z'
+datePublished: '2016-01-17T01:38:08.997Z'
+dateModified: '2016-01-17T01:37:18.378Z'
 title: Mentoring
 author: []
 sourcePath: _posts/2016-01-11-mentoring.md
