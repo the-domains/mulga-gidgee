@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-17T00:12:41.653Z'
-dateModified: '2016-01-17T00:12:41.274Z'
+datePublished: '2016-01-17T00:35:01.967Z'
+dateModified: '2016-01-17T00:34:57.117Z'
 title: Governance
 author: []
 sourcePath: _posts/2016-01-16-governance.md
@@ -53,6 +53,6 @@ literacy levels in remote communities.
 
 * 2013 - present Groote Eylandt Aboriginal Trust, Groote Eylandt NT
 * 2013- 2015 Demed Association Inc, Gunbalanya NT
-* 2013- 2014Maningrida Local Reference Group, Maningrida NT
-* 2013Murrwanyan Aboriginal Corporation, Minjilang NT
-* 2011Bawinanga Aboriginal Corporation, Maningrida NT
+* 2013- 2014 Maningrida Local Reference Group, Maningrida NT
+* 2013 Murrwanyan Aboriginal Corporation, Minjilang NT
+* 2011 Bawinanga Aboriginal Corporation, Maningrida NT
