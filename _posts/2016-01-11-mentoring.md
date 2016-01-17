@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Ways of the Mentor
-datePublished: '2016-01-17T01:38:10.727Z'
-dateModified: '2016-01-17T01:38:10.252Z'
+datePublished: '2016-01-17T01:38:11.915Z'
+dateModified: '2016-01-17T01:38:10.716Z'
 title: Mentoring
 author: []
 sourcePath: _posts/2016-01-11-mentoring.md
