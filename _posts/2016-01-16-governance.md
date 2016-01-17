@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-17T01:38:02.587Z'
+datePublished: '2016-01-17T01:38:02.626Z'
 dateModified: '2016-01-17T01:38:02.326Z'
 title: Governance
 author: []
