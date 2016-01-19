@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-19T04:03:45.448Z'
-dateModified: '2016-01-19T04:03:42.003Z'
-title: "Wise Governance - for Indigenous Directors\_"
+datePublished: '2016-01-19T04:12:27.597Z'
+dateModified: '2016-01-19T04:12:24.150Z'
+title: "Wise Governance for Indigenous Directors\_"
 author: []
 sourcePath: _posts/2016-01-16-governance.md
 published: true
@@ -22,7 +22,7 @@ url: governance/index.html
 _type: WebPage
 
 ---
-# Wise Governance - for Indigenous Directors 
+# Wise Governance for Indigenous Directors 
 
 Developing
 Indigenous directors governance knowledge has been a passion of both 
