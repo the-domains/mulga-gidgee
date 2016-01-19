@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-19T04:11:10.571Z'
-dateModified: '2016-01-19T04:11:04.598Z'
-title: Community Engagement
+datePublished: '2016-01-19T04:11:56.115Z'
+dateModified: '2016-01-19T04:11:52.215Z'
+title: Getting it right
 author: []
 sourcePath: _posts/2016-01-11-community-engagement.md
 published: true
@@ -22,12 +22,14 @@ url: community-engagement/index.html
 _type: WebPage
 
 ---
+# Getting it right
+
 Mulga Gidgee has worked across Australia
 with many different Indigenous Communities from urban, rural and remote areas.
 
 Prior to establishing Mulga Gidgee, Scott
-& Annie McCall worked in Maningrida where a framework called the "Five
-Rights" was developed by board & staff members of the, then, Maningrida JET
+& Annie McCall worked in Maningrida where a framework called the "**Five
+Rights**" was developed by board & staff members of the, then, Maningrida JET
 Centre during a Community governance training program. 
 
 Mulga Gidgee continues to use and promote
