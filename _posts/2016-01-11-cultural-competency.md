@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-17T01:37:54.781Z'
-dateModified: '2016-01-17T01:37:45.906Z'
+datePublished: '2016-01-19T04:00:40.703Z'
+dateModified: '2016-01-19T04:00:36.427Z'
 title: Cultural Competency
 author: []
 sourcePath: _posts/2016-01-11-cultural-competency.md
@@ -84,7 +84,7 @@ modules.
 > appreciation of cultural competency and learnt some useful frameworks for
 > understanding cultural differences ..."
 
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/32e5643794116a5c3e1f58f15443993b27b2c075.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/07c38f04470edb4a21e57feda3bd073a9dc7a074.jpg)
 
 __\*Mercedes Martin & Billy Vaughn (2007).
 "Strategic Diversity & Inclusion Management" magazine, pp. 31-36\.
