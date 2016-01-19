@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-16T07:58:35.692Z'
-dateModified: '2016-01-16T07:58:31.584Z'
+datePublished: '2016-01-19T04:10:39.818Z'
+dateModified: '2016-01-19T04:10:38.217Z'
 title: Community Engagement
 author: []
 sourcePath: _posts/2016-01-11-community-engagement.md
@@ -31,63 +31,7 @@ Rights" was developed by board & staff members of the, then, Maningrida JET
 Centre during a Community governance training program. 
 
 Mulga Gidgee continues to use and promote
-this framework;
-
-## The Five Rights -- A Framework for Community
-Engagement: 
-
-**1\. Right People**
-
-Finding the right people to assist us with
-our work is the most important of the 5 Rights. Aboriginal communities and
-families can be socially and culturally complex. Developing a picture of
-significant Community members that relate to your specific project and should
-be involved is a good place to start. At a community level, you may need to
-liaise with local agencies such as the school or health clinic. Be aware that
-there is a high turnover of non-Indigenous staff in these organisations and in
-many cases a local Aboriginal person (Teacher Assistant or Aboriginal Health
-Worker) may have better long--term knowledge to assist you.
-
-**2\. Right Time **
-
-When organising community contacts, or
-visits, it is crucial to ensure that you align with family and broader
-community priorities. Funerals, ceremonies, employment and other community
-business can often take priority. 
-
-**3\. Right Place **
-
-There are a few key considerations to
-ensuring right place. Is the location suitable for the attendees? Is the
-relationship between them and the host venue manager OK? How will people get
-there? Do you need to facilitate transport? Are there toilets and tea/coffee
-facilities? Are you bringing catering or buying local? How will you get from
-the airport? Do you have a backup plan for communications if your transport is
-delayed? Will the host agency and/or Community agents require payment for their
-assistance?
-
-**4\. Right Language **
-
-Clear communication is critical to
-effective community engagement. What is the main language of the group you are
-meeting with? Do you need an interpreter? With ESL clients it is sometimes
-better to use visual or graphic based presentations and handouts that are
-written in plain language. Be aware that in any group there is likely to be
-varying degrees of comprehension. In many remote communities the incidence of
-hearing loss and visual impairment is more common. Allowing space in our
-communication for other participants to re-tell or translate our information is
-an important part of being understood.
-
-As a general rule, when communicating with
-ESL clients speak clearly and check whenever possible that the message has been
-understood.
-
-**5\. Right Way**
-
-Let Aboriginal people inform all aspects of
-"how" it should happen. When all this comes together --- That is RIGHT WAY ---
-When not sure about any of the rights go to number 1 --- Find the Right PEOPLE
-and ask them.
+this framework which ensures they have the **RIGHT people, language, place, time & way** of doing things in Community.
 
 **Community Engagement projects have
 included:**
@@ -101,4 +45,4 @@ included:**
 2010 - 2012 PaCE x2, Maningrida 
 
 2009 -- 2010 -- Marngarr Resource Centre, Gunyangara
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/83850fbd0b05ccc082927f90c594cf959978961e.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/75c8eb0ea154dcd1ea2569f83daf9ab49c1684bc.jpg)
