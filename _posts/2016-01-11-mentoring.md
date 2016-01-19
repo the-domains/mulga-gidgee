@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: Ways of the Mentor
-datePublished: '2016-01-19T03:59:11.465Z'
+datePublished: '2016-01-19T03:59:11.462Z'
 dateModified: '2016-01-19T03:59:07.411Z'
 title: 'Ways of the Mentor '
 author: []
