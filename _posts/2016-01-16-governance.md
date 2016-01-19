@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-19T04:03:01.418Z'
-dateModified: '2016-01-19T04:02:57.574Z'
-title: "\"Wise Governance” - for Indigenous Directors\_"
+datePublished: '2016-01-19T04:03:45.432Z'
+dateModified: '2016-01-19T04:03:42.003Z'
+title: "Wise Governance - for Indigenous Directors\_"
 author: []
 sourcePath: _posts/2016-01-16-governance.md
 published: true
@@ -22,7 +22,7 @@ url: governance/index.html
 _type: WebPage
 
 ---
-# "Wise Governance" - for Indigenous Directors 
+# Wise Governance - for Indigenous Directors 
 
 Developing
 Indigenous directors governance knowledge has been a passion of both 
@@ -56,3 +56,5 @@ literacy levels in remote communities.
 * 2013- 2014 Maningrida Local Reference Group, Maningrida NT
 * 2013 Murrwanyan Aboriginal Corporation, Minjilang NT
 * 2011 Bawinanga Aboriginal Corporation, Maningrida NT
+
+See also www.wisegovernance.com.au
