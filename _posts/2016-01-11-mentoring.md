@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Ways of the Mentor
-datePublished: '2016-01-17T01:38:54.562Z'
-dateModified: '2016-01-17T01:38:54.337Z'
+datePublished: '2016-01-19T03:15:27.092Z'
+dateModified: '2016-01-19T03:15:22.850Z'
 title: Mentoring
 author: []
 sourcePath: _posts/2016-01-11-mentoring.md
@@ -43,7 +43,7 @@ core competencies for effective mentoring.
 
 Mulga Gidgee also happily hosts the [NT
 Employment Mentors Network][1]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/124226d0-a46b-4fea-819a-4e9459bdc6d6.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/53bdb79a34f4d45e04fb37ffc5571b23c2b12f13.jpg)
 
 [0]: www.waysofthementor.com
 [1]: www.mentornt.net.au
