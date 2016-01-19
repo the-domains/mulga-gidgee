@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-19T04:01:59.622Z'
-dateModified: '2016-01-19T04:01:54.931Z'
+datePublished: '2016-01-19T04:03:01.418Z'
+dateModified: '2016-01-19T04:02:57.574Z'
 title: "\"Wise Governance” - for Indigenous Directors\_"
 author: []
 sourcePath: _posts/2016-01-16-governance.md
