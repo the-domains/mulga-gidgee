@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-19T04:11:56.115Z'
+datePublished: '2016-01-19T04:11:56.134Z'
 dateModified: '2016-01-19T04:11:52.215Z'
 title: Getting it right
 author: []
