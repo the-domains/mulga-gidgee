@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-21T08:30:32.497Z'
-dateModified: '2016-01-21T08:30:28.548Z'
+datePublished: '2016-01-21T08:38:30.224Z'
+dateModified: '2016-01-21T08:38:26.118Z'
 title: Employment Services
 author: []
 sourcePath: _posts/2016-01-21-employment-services.md
@@ -28,17 +28,17 @@ Mulga Gidgee has been a member of several government
 panels and has provided these, and other employment services, to various corporate, 
 community & government clients across Australia.
 
-Indigenous Employment and Training- Programs & Strategy
+- Indigenous Employment and Training- Programs & Strategy
 
-Mentoring 
+- Mentoring 
 
-Community Engagement 
+- Community Engagement 
 
-Cultural Competency 
+- Cultural Competency 
 
-Organisational Capacity Development, including Governance
+- Organisational Capacity Development, including Governance
 
-## Clients have included:
+Clients have included:
 
 **Ausgrid**
 (formerly Energy Australia), Pre-employment preparation, Mentor 
