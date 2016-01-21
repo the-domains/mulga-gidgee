@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: Ways of the Mentor
-datePublished: '2016-01-19T03:59:11.462Z'
-dateModified: '2016-01-19T03:59:07.411Z'
-title: 'Ways of the Mentor '
+datePublished: '2016-01-21T07:16:10.886Z'
+dateModified: '2016-01-21T07:16:05.356Z'
+title: Mentoring
 author: []
 sourcePath: _posts/2016-01-11-mentoring.md
 published: true
@@ -22,10 +22,10 @@ url: mentoring/index.html
 _type: WebPage
 
 ---
-# Ways of the Mentor 
+# Mentoring
 
-Launched in February
-2013 by Mulga Gidgee, **Mentoring workshops** have now been held in Darwin and Arnhem Land
+Ways of the Mentor was launched in February
+2013 by Mulga Gidgee. **Mentoring workshops** have now been held in Darwin and Arnhem Land
 NT, with participants from CDP, childcare facilities, government departments, Indigenous organisations, councils and schools. 
 
 **One-on-one employment and cross cultural mentoring **services are also enabling Indigenous and Non-Indigenous staff to work better with one another.
@@ -48,6 +48,6 @@ organisation, or to attend an upcoming workshop, please email scott@mulgagidgee.
 
 Mulga Gidgee also happily hosts the [NT
 Employment Mentors Network][0]
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/53bdb79a34f4d45e04fb37ffc5571b23c2b12f13.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a89fde79ba42914a65b84e51b87b673a9d1e4596.jpg)
 
 [0]: http://mentornt.net.au/
