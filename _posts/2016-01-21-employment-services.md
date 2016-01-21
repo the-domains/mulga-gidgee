@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-21T06:57:16.909Z'
-dateModified: '2016-01-21T06:57:05.253Z'
+datePublished: '2016-01-21T07:10:15.047Z'
+dateModified: '2016-01-21T07:10:07.883Z'
 title: Employment Services
 author: []
+sourcePath: _posts/2016-01-21-employment-services.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-21-employment-services.md
-published: true
 url: employment-services/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Employment Services
