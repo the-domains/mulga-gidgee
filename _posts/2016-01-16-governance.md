@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-21T08:30:57.730Z'
-dateModified: '2016-01-21T08:30:54.024Z'
+datePublished: '2016-01-21T08:39:40.001Z'
+dateModified: '2016-01-21T08:39:35.218Z'
 title: 'Governance '
 author: []
 sourcePath: _posts/2016-01-16-governance.md
@@ -51,11 +51,15 @@ literacy levels in remote communities.
 
 **Governance projects have included:**
 
-* 2013 - present Groote Eylandt Aboriginal Trust, Groote Eylandt NT
-* 2013- 2015 Demed Association Inc, Gunbalanya NT
-* 2013- 2014 Maningrida Local Reference Group, Maningrida NT
-* 2013 Murrwanyan Aboriginal Corporation, Minjilang NT
-* 2011 Bawinanga Aboriginal Corporation, Maningrida NT
+- Groote Eylandt Aboriginal Trust, Groote Eylandt NT
+
+- Demed Association Inc, Gunbalanya NT
+
+- Maningrida Local Reference Group, Maningrida NT
+
+- Murrwanyan Aboriginal Corporation, Minjilang NT
+
+- Bawinanga Aboriginal Corporation, Maningrida NT
 
 See also www.wisegovernance.com.au
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f84a72a9-1af7-4263-9dc2-d3aa0c67db66.jpg)
