@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-21T08:42:18.096Z'
-dateModified: '2016-01-21T08:42:14.441Z'
+datePublished: '2016-01-21T09:29:03.569Z'
+dateModified: '2016-01-21T09:28:58.895Z'
 title: Community Engagement
 author: []
 sourcePath: _posts/2016-01-11-community-engagement.md
@@ -38,13 +38,13 @@ this framework which ensures they have the **RIGHT people, language, place, time
 **Community Engagement projects have
 included:**
 
-2012 PaCE (Parents & Community Engagement) Minjilang Community 
+PaCE (Parents & Community Engagement) Minjilang Community 
 
-2012 PaCE Amangal Community, Adelaide River 
+PaCE Amangal Community, Adelaide River 
 
-2012 PaCE Kormilda College 
+PaCE Kormilda College 
 
-2010 - 2012 PaCE x2, Maningrida 
+PaCE x2, Maningrida 
 
-2009 -- 2010 -- Marngarr Resource Centre, Gunyangara
+Marngarr Resource Centre, Gunyangara
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/75c8eb0ea154dcd1ea2569f83daf9ab49c1684bc.jpg)
