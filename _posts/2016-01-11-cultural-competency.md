@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-21T08:30:04.035Z'
-dateModified: '2016-01-21T08:30:00.429Z'
+datePublished: '2016-01-21T09:30:29.792Z'
+dateModified: '2016-01-21T09:30:24.305Z'
 title: Cultural Competency
 author: []
 sourcePath: _posts/2016-01-11-cultural-competency.md
@@ -53,18 +53,18 @@ Mulga Gidgee has delivered Cultural
 Competency training to individuals, small & large groups and whole of government
 departments including:
 
-Power & Water Corporation
+- Power & Water Corporation
 
-Department of Corporate and Information
+- Department of Corporate and Information
 Services
 
-NT Parks and Wildlife Service
+- NT Parks and Wildlife Service
 
-The Australian Army - NORFORCE unit
+- The Australian Army - NORFORCE unit
 
-WESTPAC Bank
+- WESTPAC Bank
 
-Amnesty International
+- Amnesty International
 
 Mulga Gidgee is a panel member of the
 Northern Territory Government Non-Accredited Training & Development
