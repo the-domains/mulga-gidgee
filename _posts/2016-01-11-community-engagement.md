@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-19T04:11:56.224Z'
-dateModified: '2016-01-19T04:11:52.215Z'
-title: Getting it right
+datePublished: '2016-01-21T07:13:44.023Z'
+dateModified: '2016-01-21T07:13:43.099Z'
+title: Community Engagement
 author: []
 sourcePath: _posts/2016-01-11-community-engagement.md
 published: true
@@ -22,7 +22,7 @@ url: community-engagement/index.html
 _type: WebPage
 
 ---
-# Getting it right
+# Community Engagement
 
 Mulga Gidgee has worked across Australia
 with many different Indigenous Communities from urban, rural and remote areas.
