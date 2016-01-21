@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Ways of the Mentor
-datePublished: '2016-01-21T08:31:47.117Z'
-dateModified: '2016-01-21T08:31:43.725Z'
+datePublished: '2016-01-21T08:41:14.262Z'
+dateModified: '2016-01-21T08:41:09.919Z'
 title: Mentoring
 author: []
 sourcePath: _posts/2016-01-11-mentoring.md
@@ -29,8 +29,6 @@ Ways of the Mentor was launched in February
 NT, with participants from CDP, childcare facilities, government departments, Indigenous organisations, councils and schools. 
 
 **One-on-one employment and cross cultural mentoring **services are also enabling Indigenous and Non-Indigenous staff to work better with one another.
-
-## Mentor Training
 
 > "...Scott, I thought I would take the opportunity to once again say how
 > refreshing it was to get new perspective on working within communities with the
