@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-19T04:12:27.597Z'
-dateModified: '2016-01-19T04:12:24.150Z'
+datePublished: '2016-01-21T02:21:05.484Z'
+dateModified: '2016-01-21T02:21:01.775Z'
 title: "Wise Governance for Indigenous Directors\_"
 author: []
 sourcePath: _posts/2016-01-16-governance.md
@@ -58,3 +58,4 @@ literacy levels in remote communities.
 * 2011 Bawinanga Aboriginal Corporation, Maningrida NT
 
 See also www.wisegovernance.com.au
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f84a72a9-1af7-4263-9dc2-d3aa0c67db66.jpg)
