@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-11T07:11:08.312Z'
-dateModified: '2016-02-11T07:11:04.403Z'
+datePublished: '2016-02-11T07:58:18.360Z'
+dateModified: '2016-02-11T07:58:14.438Z'
 title: Employment Services
 author: []
 sourcePath: _posts/2016-01-21-employment-services.md
@@ -51,8 +51,7 @@ Awareness Training, annually since 2007_
 _Department of Defence -Indigenous
 Employment Strategy 2012-2017- 60,000 employees; Implicit in the strategy was
 to pivot it on the foundational priority of having an accountable and informed
-program. This ensured optimum program governance arrangements, specific accountabilities
-and the robustness of measures across the overall strategy_
+program. _
 
 _Wadeye Regional Boarding Facility Local
 Employment Implementation Strategy (2011)- maximised local employment
