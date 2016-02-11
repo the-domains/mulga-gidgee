@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-11T08:10:21.528Z'
-dateModified: '2016-02-11T08:10:17.783Z'
+datePublished: '2016-02-11T08:12:03.214Z'
+dateModified: '2016-02-11T08:11:59.216Z'
 title: Cultural Competency
 author: []
 sourcePath: _posts/2016-01-11-cultural-competency.md
@@ -46,27 +46,25 @@ people across cultures..."_\*
 Using these core frameworks and Hoefstede's
 Cultural Dimensions Theory, Scott seeks to take participants on a
 self-reflective journey into their own, workplace, international and Indigenous
-cultural frameworks. 
-
-Workshops are tailored for each client and can run from 4
+cultural frameworks. Workshops are tailored for each client and can run from 4
 hour introductions to 2 day in depth programs.
 
 Mulga Gidgee has delivered Cultural
 Competency training to individuals, small & large groups and whole of government
 departments including:
 
-- Power & Water Corporation
+Power & Water Corporation
 
-- Department of Corporate and Information
+Department of Corporate and Information
 Services
 
-- NT Parks and Wildlife Service
+NT Parks and Wildlife Service
 
-- The Australian Army - NORFORCE unit
+The Australian Army - NORFORCE unit
 
-- WESTPAC Bank
+WESTPAC Bank
 
-- Amnesty International
+Amnesty International
 
 Mulga Gidgee is a panel member of the
 Northern Territory Government Non-Accredited Training & Development
