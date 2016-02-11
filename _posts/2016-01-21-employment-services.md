@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-11T06:17:54.493Z'
-dateModified: '2016-02-11T06:17:50.718Z'
+datePublished: '2016-02-11T07:01:46.448Z'
+dateModified: '2016-02-11T07:01:45.582Z'
 title: Employment Services
 author: []
 sourcePath: _posts/2016-01-21-employment-services.md
@@ -45,11 +45,15 @@ Clients have included:
 development program and Cross Cultural Awareness Training, annually 
 since 2007_****_
 
-**Department of Defence -Indigenous Employment Strategy 2012-2017**- 60,000
-employees; Implicit in the strategy was to pivot it on the foundational
-priority of having an accountable and informed program. This ensured 
-optimum program governance arrangements, specific accountabilities and 
-the robustness of measures across the overall strategy**____**
+****
+
+**Department of Defence** -_Indigenous
+Employment Strategy 2012-2017_- 60,000 employees; Implicit in the strategy was
+to pivot it on the foundational priority of having an accountable and informed
+program. This ensured optimum program governance arrangements, specific accountabilities
+and the robustness of measures across the overall strategy
+
+**____**
 
 **_Wadeye Regional Boarding Facility Local Employment Implementation Strategy (2011)_**- maximised local employment opportunities in a Commonwealth Government entity that was to manage the new boarding facility
 
