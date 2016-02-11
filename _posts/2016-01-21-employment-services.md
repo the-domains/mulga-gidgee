@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-11T07:08:50.502Z'
-dateModified: '2016-02-11T07:08:46.652Z'
+datePublished: '2016-02-11T07:11:08.312Z'
+dateModified: '2016-02-11T07:11:04.403Z'
 title: Employment Services
 author: []
 sourcePath: _posts/2016-01-21-employment-services.md
@@ -44,48 +44,48 @@ Capacity Development, including Governance
 
 Clients have included:
 
-Ausgrid (formerly Energy Australia),
+_Ausgrid (formerly Energy Australia),
 Pre-employment preparation, Mentor development program and Cross Cultural
-Awareness Training, annually since 2007
+Awareness Training, annually since 2007_
 
-Department of Defence -Indigenous
+_Department of Defence -Indigenous
 Employment Strategy 2012-2017- 60,000 employees; Implicit in the strategy was
 to pivot it on the foundational priority of having an accountable and informed
 program. This ensured optimum program governance arrangements, specific accountabilities
-and the robustness of measures across the overall strategy
+and the robustness of measures across the overall strategy_
 
-Wadeye Regional Boarding Facility Local
+_Wadeye Regional Boarding Facility Local
 Employment Implementation Strategy (2011)- maximised local employment
 opportunities in a Commonwealth Government entity that was to manage the new
-boarding facility
+boarding facility_
 
-Australian Defence Force, Defence
+_Australian Defence Force, Defence
 Indigenous Development Program (DIDP), remote area pre-employment curriculum
-and participant mentoring
+and participant mentoring_
 
-Energy Australia Diversity Strategy (2010)-
+_Energy Australia Diversity Strategy (2010)-
 included attract, employ, retain and develop strategies for broader diversity
-groups including Indigenous.
+groups including Indigenous._
 
-Voyages Resorts Ayres Rock, Remote area Indigenous
-Mentoring Scheme and Community Facilitation Project
+_Voyages Resorts Ayres Rock, Remote area Indigenous
+Mentoring Scheme and Community Facilitation Project_
 
-NSW State Rail Authority, Pre-Employment
-Preparation and Mentoring
+_NSW State Rail Authority, Pre-Employment
+Preparation and Mentoring_
 
-Australian Army (Norforce Unit), Arnhemland
+_Australian Army (Norforce Unit), Arnhemland
 Teamwork, Residential LLNP Skills development initiative for remote area
-reservists
+reservists_
 
-East Arnhem Shire Council, Gunyangara &
-Yirrkala Communities, Yolngu pre-employment course and mentoring
+_East Arnhem Shire Council, Gunyangara &
+Yirrkala Communities, Yolngu pre-employment course and mentoring_
 
-Deadly@Work, Redfern Sydney, 5 day
-pre-employment courses and 6 months mentoring
+_Deadly@Work, Redfern Sydney, 5 day
+pre-employment courses and 6 months mentoring_
 
-Qantas Indigenous Employment Strategy
+_Qantas Indigenous Employment Strategy
 2005-10- Scott McCall, as Diversity Programs Coordinator for the Qantas Group;
 38,000 employees; Implicit in the strategy was to ensure KPI measures of Group
 Managers included the tying of performance bonuses to Indigenous employment
-targets.
+targets._
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e7c4b8fdf4ff21a7fad3a9635e1a7c604472db35.jpg)
