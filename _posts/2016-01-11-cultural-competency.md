@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-11T06:54:06.986Z'
-dateModified: '2016-02-11T06:27:14.626Z'
+datePublished: '2016-02-11T07:59:22.845Z'
+dateModified: '2016-02-11T07:59:13.759Z'
 title: Cultural Competency
 author: []
 sourcePath: _posts/2016-01-11-cultural-competency.md
@@ -87,6 +87,8 @@ modules.
 > understanding cultural differences ..."
 
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d707c3dc19d2785562913c743cc2db354f51d2eb.jpg)
+
+____
 
 __\*Mercedes Martin & Billy Vaughn (2007).
 "Strategic Diversity & Inclusion Management" magazine, pp. 31-36\.
