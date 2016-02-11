@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-11T06:23:01.856Z'
-dateModified: '2016-02-11T06:22:58.091Z'
+datePublished: '2016-02-11T06:25:34.986Z'
+dateModified: '2016-02-11T06:25:30.772Z'
 title: Cultural Competency
 author: []
 sourcePath: _posts/2016-01-11-cultural-competency.md
@@ -49,7 +49,7 @@ self-reflective journey into their own, workplace, international and Indigenous
 cultural frameworks. 
 
 Workshops are tailored for each client and can run from 4
-hour introductions to 2 day in-depth programs.
+hour introductions to 2 day in depth programs.
 
 Mulga Gidgee has delivered Cultural
 Competency training to individuals, small & large groups and whole of government
