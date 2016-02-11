@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-11T06:00:06.887Z'
-dateModified: '2016-02-11T06:00:03.486Z'
-title: 'Governance '
+datePublished: '2016-02-11T06:11:29.369Z'
+dateModified: '2016-02-11T06:11:28.512Z'
+title: 'Wise Governance '
 author: []
 sourcePath: _posts/2016-01-16-governance.md
 published: true
@@ -22,7 +22,7 @@ url: governance/index.html
 _type: WebPage
 
 ---
-# Governance 
+# Wise Governance 
 
 Developing
 Indigenous directors governance knowledge has been a passion of both 
@@ -62,4 +62,4 @@ literacy levels in remote communities.
 - Bawinanga Aboriginal Corporation, Maningrida NT
 
 See also www.wisegovernance.com.au
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ac89d18802ecd57f61e1b18faac407a83438c8f3.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1522dfd8-e92c-4a8c-ae28-613563ee1897.jpg)
