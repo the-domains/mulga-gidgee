@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-11T08:08:26.531Z'
-dateModified: '2016-02-11T08:08:21.000Z'
+datePublished: '2016-02-11T08:16:09.428Z'
+dateModified: '2016-02-11T08:13:28.393Z'
 title: Employment Services
 author: []
 sourcePath: _posts/2016-01-21-employment-services.md
@@ -42,7 +42,7 @@ Competency
 Organisational
 Capacity Development, including Governance
 
-Clients have included:
+## Clients have included:
 
 Ausgrid (formerly Energy Australia),
 Pre-employment preparation, Mentor development program and Cross Cultural
