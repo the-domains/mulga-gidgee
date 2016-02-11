@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-11T05:58:17.520Z'
-dateModified: '2016-02-11T05:58:10.616Z'
+datePublished: '2016-02-11T06:17:54.493Z'
+dateModified: '2016-02-11T06:17:50.718Z'
 title: Employment Services
 author: []
 sourcePath: _posts/2016-01-21-employment-services.md
@@ -45,7 +45,7 @@ Clients have included:
 development program and Cross Cultural Awareness Training, annually 
 since 2007_****_
 
-_**Department of Defence -Indigenous Employment Strategy 2012-2017**_- 60,000
+**Department of Defence -Indigenous Employment Strategy 2012-2017**- 60,000
 employees; Implicit in the strategy was to pivot it on the foundational
 priority of having an accountable and informed program. This ensured 
 optimum program governance arrangements, specific accountabilities and 
