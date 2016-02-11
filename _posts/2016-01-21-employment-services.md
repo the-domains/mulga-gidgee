@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-11T07:01:46.448Z'
-dateModified: '2016-02-11T07:01:45.582Z'
+datePublished: '2016-02-11T07:04:12.508Z'
+dateModified: '2016-02-11T07:04:09.153Z'
 title: Employment Services
 author: []
 sourcePath: _posts/2016-01-21-employment-services.md
@@ -50,8 +50,7 @@ since 2007_****_
 **Department of Defence** -_Indigenous
 Employment Strategy 2012-2017_- 60,000 employees; Implicit in the strategy was
 to pivot it on the foundational priority of having an accountable and informed
-program. This ensured optimum program governance arrangements, specific accountabilities
-and the robustness of measures across the overall strategy
+program. 
 
 **____**
 
