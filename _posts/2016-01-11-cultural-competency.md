@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-11T06:25:34.986Z'
-dateModified: '2016-02-11T06:25:30.772Z'
+datePublished: '2016-02-11T06:54:06.986Z'
+dateModified: '2016-02-11T06:27:14.626Z'
 title: Cultural Competency
 author: []
 sourcePath: _posts/2016-01-11-cultural-competency.md
