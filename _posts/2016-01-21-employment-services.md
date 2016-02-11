@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-11T05:58:09.912Z'
-dateModified: '2016-02-11T05:57:53.157Z'
+datePublished: '2016-02-11T05:58:17.520Z'
+dateModified: '2016-02-11T05:58:10.616Z'
 title: Employment Services
 author: []
 sourcePath: _posts/2016-01-21-employment-services.md
@@ -74,4 +74,4 @@ McCall, as Diversity Programs Coordinator for the Qantas Group; 38,000
 employees; Implicit in the strategy was to ensure KPI measures of Group 
 Managers included the tying of performance bonuses to Indigenous 
 employment targets.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e52f9cfb-386f-40f5-be99-a9c744607163.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e7c4b8fdf4ff21a7fad3a9635e1a7c604472db35.jpg)
