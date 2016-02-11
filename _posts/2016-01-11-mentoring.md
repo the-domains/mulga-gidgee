@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Ways of the Mentor
-datePublished: '2016-01-26T01:30:13.905Z'
-dateModified: '2016-01-26T01:30:06.910Z'
+datePublished: '2016-02-11T06:00:50.954Z'
+dateModified: '2016-02-11T06:00:47.467Z'
 title: Mentoring
 author: []
 sourcePath: _posts/2016-01-11-mentoring.md
@@ -46,6 +46,6 @@ organisation, or to attend an upcoming workshop, please email scott@mulgagidgee.
 
 Mulga Gidgee also happily hosts the [NT
 Employment Mentors Network][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/09d2257d-93f6-48d3-9a9d-09f6792b9957.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/20a1fe5dcea4814661031c78cf2175b18c50a044.jpg)
 
 [0]: http://mentornt.net.au/
