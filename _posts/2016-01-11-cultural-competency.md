@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-11T06:06:00.150Z'
-dateModified: '2016-02-11T06:05:56.232Z'
+datePublished: '2016-02-11T06:20:07.186Z'
+dateModified: '2016-02-11T06:20:03.545Z'
 title: Cultural Competency
 author: []
 sourcePath: _posts/2016-01-11-cultural-competency.md
@@ -46,7 +46,9 @@ people across cultures..."_\*
 Using these core frameworks and Hoefstede's
 Cultural Dimensions Theory, Scott seeks to take participants on a
 self-reflective journey into their own, workplace, international and Indigenous
-cultural frameworks. Workshops are tailored for each client and can run from 4
+cultural frameworks. 
+
+Workshops are tailored for each client and can run from 4
 hour introductions to 2 day in-depth programs.
 
 Mulga Gidgee has delivered Cultural
