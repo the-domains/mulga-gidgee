@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-11T08:12:03.214Z'
-dateModified: '2016-02-11T08:11:59.216Z'
+datePublished: '2016-02-11T08:26:22.278Z'
+dateModified: '2016-02-11T08:26:18.561Z'
 title: Cultural Competency
 author: []
 sourcePath: _posts/2016-01-11-cultural-competency.md
@@ -22,6 +22,8 @@ url: cultural-competency/index.html
 _type: WebPage
 
 ---
+# Cultural Competency
+
 Cultural competence has many definitions
 and refers to an ability to interact effectively with people of different
 cultures. 
@@ -49,6 +51,8 @@ self-reflective journey into their own, workplace, international and Indigenous
 cultural frameworks. Workshops are tailored for each client and can run from 4
 hour introductions to 2 day in depth programs.
 
+## Clients
+
 Mulga Gidgee has delivered Cultural
 Competency training to individuals, small & large groups and whole of government
 departments including:
@@ -71,7 +75,7 @@ Northern Territory Government Non-Accredited Training & Development
 Services Provider Panel (D13-005) for all government Diversity training
 modules.
 
-**Participant Feedback:**
+## Participant Feedback
 
 > "...Scott is a very engaging trainer
 > who teaches a huge and complex subject in a way that made it accessible and
