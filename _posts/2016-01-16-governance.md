@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-11T06:11:29.369Z'
-dateModified: '2016-02-11T06:11:28.512Z'
+datePublished: '2016-02-11T06:19:42.921Z'
+dateModified: '2016-02-11T06:19:38.798Z'
 title: 'Wise Governance '
 author: []
 sourcePath: _posts/2016-01-16-governance.md
