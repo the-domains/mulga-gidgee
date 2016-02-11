@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-11T08:01:44.242Z'
-dateModified: '2016-02-11T08:01:39.116Z'
+datePublished: '2016-02-11T08:08:26.531Z'
+dateModified: '2016-02-11T08:08:21.000Z'
 title: Employment Services
 author: []
 sourcePath: _posts/2016-01-21-employment-services.md
@@ -86,5 +86,5 @@ Qantas Indigenous Employment Strategy
 2005-10- Scott McCall, as Diversity Programs Coordinator for the Qantas Group;
 38,000 employees; Implicit in the strategy was to ensure KPI measures of Group
 Managers included the tying of performance bonuses to Indigenous employment
-target_s._
+targets.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e7c4b8fdf4ff21a7fad3a9635e1a7c604472db35.jpg)
