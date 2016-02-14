@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Mulga Gidgee]]></title>
         <description><![CDATA[Mulga Gidgee]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.mulgagidgee.com.au/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Feb 2016 00:39:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 14 Feb 2016 01:24:50 GMT</lastBuildDate>
+        <atom:link href="http://www.mulgagidgee.com.au/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Contact Us]]></title>
             <description><![CDATA[<article><h1>Contact Us</h1><p>Mulga Gidgee Pty Ltd </p></article>]]></description>
-            <link>undefinedcontact-us/index.html</link>
+            <link>http://www.mulgagidgee.com.au/contact-us/index.html</link>
             <guid isPermaLink="false">39d674ab-7956-4333-bfa1-6fbcbf523b82</guid>
-            <pubDate>Sun, 14 Feb 2016 00:38:40 GMT</pubDate>
+            <pubDate>Sun, 14 Feb 2016 01:24:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
