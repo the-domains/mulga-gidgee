@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Ways of the Mentor
-datePublished: '2016-02-11T07:54:20.053Z'
-dateModified: '2016-02-11T07:54:16.827Z'
+datePublished: '2016-02-16T04:34:28.313Z'
+dateModified: '2016-02-16T04:34:16.918Z'
 title: Mentoring
 author: []
 sourcePath: _posts/2016-01-11-mentoring.md
@@ -42,10 +42,12 @@ strengths and weaknesses, interact with other mentors, and develop specific,
 core competencies for effective mentoring.
 
 To have **Ways of the Mentor** at your
-organisation, or to attend an upcoming workshop, please email scott@mulgagidgee.com.au 
+organisation, or to attend an upcoming workshop, please email scott@mulgagidgee.com.au ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/20a1fe5dcea4814661031c78cf2175b18c50a044.jpg)
 
 Mulga Gidgee also happily hosts the [NT
 Employment Mentors Network][0]
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/20a1fe5dcea4814661031c78cf2175b18c50a044.jpg)
+
+[][0]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f4e3cea-8dbe-4b4b-8a63-e1aebc0897ab.jpg)
 
 [0]: http://mentornt.net.au/
