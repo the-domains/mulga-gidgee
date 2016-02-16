@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Ways of the Mentor
-datePublished: '2016-02-16T04:50:06.054Z'
-dateModified: '2016-02-16T04:39:40.824Z'
+datePublished: '2016-02-16T09:00:28.187Z'
+dateModified: '2016-02-16T09:00:23.542Z'
 title: Mentoring
 author: []
 sourcePath: _posts/2016-01-11-mentoring.md
@@ -50,6 +50,5 @@ Employment Mentors Network][0]
 [][0]
 
 [][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3181e66f-510a-4892-8dd7-307eab83d94e.jpg)
 
 [0]: http://mentornt.net.au/
