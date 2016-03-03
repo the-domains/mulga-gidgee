@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-03T09:35:04.362Z'
-dateModified: '2016-03-03T09:34:44.236Z'
+datePublished: '2016-03-03T09:37:20.725Z'
+dateModified: '2016-03-03T09:36:48.112Z'
 title: 'Governance '
 author: []
 sourcePath: _posts/2016-01-16-governance.md
@@ -67,4 +67,4 @@ See also
 ## [Wise Governance][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed243413-6df9-40de-ba21-057ce34d437f.jpg)
 
-[0]: www.wisegovernance.com.au
+[0]: wisegovernance.com.au
