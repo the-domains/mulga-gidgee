@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-03T09:28:12.762Z'
-dateModified: '2016-03-03T09:19:30.521Z'
+datePublished: '2016-03-03T09:35:04.362Z'
+dateModified: '2016-03-03T09:34:44.236Z'
 title: 'Governance '
 author: []
 sourcePath: _posts/2016-01-16-governance.md
@@ -60,10 +60,11 @@ literacy levels in remote communities.
 - Murrwanyan Aboriginal Corporation, Minjilang NT
 
 - Bawinanga Aboriginal Corporation, Maningrida NT
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1522dfd8-e92c-4a8c-ae28-613563ee1897.jpg)
 
 See also 
 
 ## [Wise Governance][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1522dfd8-e92c-4a8c-ae28-613563ee1897.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed243413-6df9-40de-ba21-057ce34d437f.jpg)
 
 [0]: www.wisegovernance.com.au
