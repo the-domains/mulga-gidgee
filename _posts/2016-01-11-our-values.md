@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-03T08:45:59.940Z'
-dateModified: '2016-03-03T08:41:04.641Z'
+datePublished: '2016-03-03T08:47:52.697Z'
+dateModified: '2016-03-03T08:47:31.106Z'
 title: Our Values
 author: []
 sourcePath: _posts/2016-01-11-our-values.md
