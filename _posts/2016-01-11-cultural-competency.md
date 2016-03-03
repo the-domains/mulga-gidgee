@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-28T06:27:43.379Z'
-dateModified: '2016-02-28T06:27:42.569Z'
+datePublished: '2016-03-03T09:52:52.383Z'
+dateModified: '2016-03-03T09:50:38.958Z'
 title: Cultural Competency
 author: []
 sourcePath: _posts/2016-01-11-cultural-competency.md
@@ -91,7 +91,3 @@ modules.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d707c3dc19d2785562913c743cc2db354f51d2eb.jpg)
 
 ____
-
-__\*Mercedes Martin & Billy Vaughn (2007).
-"Strategic Diversity & Inclusion Management" magazine, pp. 31-36\.
-DTUI Publications Division: San Francisco, California, USA.__
