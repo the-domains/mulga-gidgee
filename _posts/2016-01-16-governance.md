@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-03T09:37:20.725Z'
-dateModified: '2016-03-03T09:36:48.112Z'
+datePublished: '2016-03-03T09:40:01.321Z'
+dateModified: '2016-03-03T09:39:07.829Z'
 title: 'Governance '
 author: []
 sourcePath: _posts/2016-01-16-governance.md
@@ -64,7 +64,7 @@ literacy levels in remote communities.
 
 See also 
 
-## [Wise Governance][0]
+## [www.wisegovernance.com.au][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed243413-6df9-40de-ba21-057ce34d437f.jpg)
 
 [0]: wisegovernance.com.au
