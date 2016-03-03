@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Mulga Gidgee]]></title>
+        <description><![CDATA[Mulga Gidgee]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 03 Mar 2016 09:01:46 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Us]]></title>
+            <description><![CDATA[<article><h1>About Us</h1><p>Scott McCall</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4e225c4f85afd082db0716ecd2d32be55d15094.jpg"></article>]]></description>
+            <link>undefinedabout-us/index.html</link>
+            <guid isPermaLink="false">678b38b4-e8ee-476f-a380-23634a4fbf7a</guid>
+            <pubDate>Thu, 03 Mar 2016 09:00:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
