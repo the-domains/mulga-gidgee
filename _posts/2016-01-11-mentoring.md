@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Ways of the Mentor
-datePublished: '2016-03-03T09:48:46.904Z'
-dateModified: '2016-03-03T09:48:38.867Z'
+datePublished: '2016-03-05T02:06:09.463Z'
+dateModified: '2016-03-03T09:55:38.775Z'
 title: Mentoring
 author: []
 sourcePath: _posts/2016-01-11-mentoring.md
@@ -28,7 +28,7 @@ Ways of the Mentor was launched in February
 2013 by Mulga Gidgee. **Mentoring workshops** have now been held in Darwin and Arnhem Land
 NT, with participants from CDP, childcare facilities, government departments, Indigenous organisations, councils and schools. 
 
-**One-on-one employment and cross cultural mentoring **services are also enabling Indigenous and Non-Indigenous staff to work better with one another.
+**One-on-one employment, organisational and cross cultural mentoring **services are also enabling Indigenous and Non-Indigenous staff to work better with one another.
 
 > "...Scott, I thought I would take the opportunity to once again say how
 > refreshing it was to get new perspective on working within communities with the
