@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-06T02:08:32.278Z'
-dateModified: '2016-03-06T02:08:19.929Z'
+datePublished: '2016-03-06T02:46:10.662Z'
+dateModified: '2016-03-06T02:44:46.752Z'
 title: 'Governance '
 author: []
 sourcePath: _posts/2016-01-16-governance.md
@@ -62,6 +62,4 @@ literacy levels in remote communities.
 - Bawinanga Aboriginal Corporation, Maningrida NT
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1522dfd8-e92c-4a8c-ae28-613563ee1897.jpg)
 
-See also **[Wise Governance][0]**
-
-[0]: wisegovernance.com.au
+See also www.wisegovernance.com.au
