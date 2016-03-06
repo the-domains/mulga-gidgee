@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-03T09:52:52.383Z'
-dateModified: '2016-03-03T09:50:38.958Z'
+datePublished: '2016-03-06T02:21:12.697Z'
+dateModified: '2016-03-06T02:20:39.506Z'
 title: Cultural Competency
 author: []
 sourcePath: _posts/2016-01-11-cultural-competency.md
@@ -43,13 +43,12 @@ _(d) Cross-cultural skills. _
 
 _Developing cultural competence results in
 an ability to understand, communicate with, and effectively interact with
-people across cultures..."_\*
+people across cultures..."_
 
 Using these core frameworks and Hoefstede's
 Cultural Dimensions Theory, Scott seeks to take participants on a
 self-reflective journey into their own, workplace, international and Indigenous
-cultural frameworks. Workshops are tailored for each client and can run from 4
-hour introductions to 2 day in depth programs.
+cultural frameworks. Workshops are tailored for each client and can run from 4-hour introductions to 2-day in depth programs.
 
 ## Clients
 
@@ -88,6 +87,6 @@ modules.
 > appreciation of cultural competency and learnt some useful frameworks for
 > understanding cultural differences ..."
 
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d707c3dc19d2785562913c743cc2db354f51d2eb.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0f045b69ca42a5a5c4e683ebc1d23fb4f6c74efe.jpg)
 
 ____
