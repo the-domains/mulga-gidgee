@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: '& what matters... '
-datePublished: '2016-05-16T02:18:20.718Z'
-dateModified: '2016-05-16T02:18:17.924Z'
+datePublished: '2016-05-16T02:32:21.804Z'
+dateModified: '2016-05-16T02:30:52.709Z'
 title: ''
 author: []
 sourcePath: _posts/2016-01-11-our-values.md
@@ -32,8 +32,6 @@ _type: Blurb
 **An Open Heart Matters**- Judgement is for judges
 
 **Congruency Matters**- Talking and walking
-
-_These are Mulga Gidgee's values_
 
 _****_
 
