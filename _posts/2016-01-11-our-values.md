@@ -4,35 +4,36 @@ hasPage: false
 inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-03T08:47:52.697Z'
-dateModified: '2016-03-03T08:47:31.106Z'
-title: Our Values
+description: '& what matters... '
+datePublished: '2016-05-16T02:14:21.291Z'
+dateModified: '2016-05-16T02:13:18.564Z'
+title: ''
 author: []
 sourcePath: _posts/2016-01-11-our-values.md
-published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+starred: false
 _type: Blurb
 
 ---
-## IT'S ALL ABOUT RELATIONSHIPS
+## Values
+
+**IT'S ALL ABOUT RELATIONSHIPS**
 
 & what matters... 
 
-**Individuals Matter**- Listen! Everyone has a
-story to inspire and the capacity to positively impact
+**Individuals Matter**- Listen! Everyone has a story to inspire and the capacity to positively impact
 
-**An Open Heart Matters**- Judgement is for
-judges
+**An Open Heart Matters**- Judgement is for judges
 
 **Congruency Matters**- Talking and walking
+
+_These are Mulga Gidgee's values_
 
 _****_
 
