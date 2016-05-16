@@ -1,13 +1,12 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: '& what matters... '
-datePublished: '2016-05-16T02:32:21.804Z'
-dateModified: '2016-05-16T02:30:52.709Z'
+datePublished: '2016-05-16T02:49:21.344Z'
+dateModified: '2016-05-16T02:48:11.815Z'
 title: ''
 author: []
 sourcePath: _posts/2016-01-11-our-values.md
@@ -18,7 +17,8 @@ publisher:
   url: null
   favicon: null
 starred: false
-_type: Blurb
+url: values/index.html
+_type: Article
 
 ---
 ## Values
