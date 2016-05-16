@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: '& what matters... '
-datePublished: '2016-05-16T02:16:21.422Z'
-dateModified: '2016-05-16T02:14:50.490Z'
+datePublished: '2016-05-16T02:18:20.718Z'
+dateModified: '2016-05-16T02:18:17.924Z'
 title: ''
 author: []
 sourcePath: _posts/2016-01-11-our-values.md
@@ -23,7 +23,7 @@ _type: Blurb
 ---
 ## Values
 
-**IT'S ALL ABOUT RELATIONSHIPS**
+**It's all about relationships**
 
 & what matters... 
 
