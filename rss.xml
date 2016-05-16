@@ -4,8 +4,15 @@
         <description><![CDATA[Mulga Gidgee]]></description>
         <link>http://www.mulgagidgee.com.au/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 May 2016 02:31:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 May 2016 02:49:52 GMT</lastBuildDate>
         <atom:link href="http://www.mulgagidgee.com.au/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Values]]></title>
+            <description><![CDATA[<p>& what matters... </p>]]></description>
+            <link>http://www.mulgagidgee.com.au/values/index.html</link>
+            <guid isPermaLink="false">8cf55bd0-eb93-4df8-9fbf-123fdba599ba</guid>
+            <pubDate>Mon, 16 May 2016 02:49:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Contact ]]></title>
             <description><![CDATA[<article><h1>Contact </h1><p>GPO Box 3809 DARWIN NT 0801</p></article>]]></description>
