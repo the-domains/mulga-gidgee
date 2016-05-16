@@ -4,8 +4,15 @@
         <description><![CDATA[Mulga Gidgee]]></description>
         <link>http://www.mulgagidgee.com.au/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 May 2016 03:12:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 May 2016 03:19:02 GMT</lastBuildDate>
         <atom:link href="http://www.mulgagidgee.com.au/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Yirrkala Healing Centre ]]></title>
+            <description><![CDATA[<article><h1>Yirrkala Healing Centre </h1><p>Mulga Gidgee was asked by the project creator, Banduk Marika, to assist with the project in December 2008.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bd1015952e5cd68eba5d2f2aab2c2e6df2020af9.jpg"></article>]]></description>
+            <link>http://www.mulgagidgee.com.au/24cbefcf-61a8-4480-a94c-0941e4b549d6/index.html</link>
+            <guid isPermaLink="false">24cbefcf-61a8-4480-a94c-0941e4b549d6</guid>
+            <pubDate>Mon, 16 May 2016 03:18:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Values]]></title>
             <description><![CDATA[<article><h1>Values</h1><p>It's all about relationships</p></article>]]></description>
@@ -19,13 +26,6 @@
             <link>http://www.mulgagidgee.com.au/contact/index.html</link>
             <guid isPermaLink="false">39d674ab-7956-4333-bfa1-6fbcbf523b82</guid>
             <pubDate>Mon, 16 May 2016 02:30:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Yirrkala Healing Centre ]]></title>
-            <description><![CDATA[<article><h1>Yirrkala Healing Centre </h1><p>Mulga Gidgee was asked by the project creator, Banduk Marika, to assist with the project in December 2008.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bd1015952e5cd68eba5d2f2aab2c2e6df2020af9.jpg"></article>]]></description>
-            <link>http://www.mulgagidgee.com.au/24cbefcf-61a8-4480-a94c-0941e4b549d6/index.html</link>
-            <guid isPermaLink="false">24cbefcf-61a8-4480-a94c-0941e4b549d6</guid>
-            <pubDate>Mon, 16 May 2016 02:14:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
