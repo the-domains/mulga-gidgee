@@ -4,8 +4,15 @@
         <description><![CDATA[Mulga Gidgee]]></description>
         <link>http://www.mulgagidgee.com.au/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 May 2016 05:48:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 May 2016 23:05:27 GMT</lastBuildDate>
         <atom:link href="http://www.mulgagidgee.com.au/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Contact ]]></title>
+            <description><![CDATA[<article><h1>Contact </h1><p>GPO Box 3809 DARWIN NT 0801</p></article>]]></description>
+            <link>http://www.mulgagidgee.com.au/contact/index.html</link>
+            <guid isPermaLink="false">39d674ab-7956-4333-bfa1-6fbcbf523b82</guid>
+            <pubDate>Wed, 18 May 2016 23:05:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About]]></title>
             <description><![CDATA[<article><h1>About</h1><h2>Scott McCall</h2><p>Scott has worked in the Indigenous employment and training sector for over 20 years. In that time he has held positions in urban, regional and remote areas throughout NSW, Qld and the NT in government, non-government and corporate environments. Before establishing Mulga Gidgee Scott was with Qantas managing their Indigenous programs amongst other diversity initiatives; prior to that he was the CEO of an Indigenous RTO based in Arnhem Land NT.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/84ca42f1362bb0b78ddb6995a941ca2f5aa583fd.jpg"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>http://www.mulgagidgee.com.au/values/index.html</link>
             <guid isPermaLink="false">0b1c21ed-9371-49cd-87b2-0c39d871e934</guid>
             <pubDate>Wed, 18 May 2016 04:12:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Contact ]]></title>
-            <description><![CDATA[<article><h1>Contact </h1><p>GPO Box 3809 DARWIN NT 0801</p></article>]]></description>
-            <link>http://www.mulgagidgee.com.au/contact/index.html</link>
-            <guid isPermaLink="false">39d674ab-7956-4333-bfa1-6fbcbf523b82</guid>
-            <pubDate>Mon, 16 May 2016 02:30:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
