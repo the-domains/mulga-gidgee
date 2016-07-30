@@ -11,7 +11,8 @@ color:
   saturation: 0
   rhythmicContrast: 1
 opengraph:
-  image: null
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/9825bcb0-9727-4a44-81c0-a5a276b80cd0.jpg
   type: 'https://www.facebook.com/mulgagidgee/'
   appId: '470015966470932'
 layout_spectrum: 0.33128
