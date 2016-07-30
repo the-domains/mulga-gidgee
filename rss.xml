@@ -4,8 +4,15 @@
         <description><![CDATA[Mulga Gidgee]]></description>
         <link>http://www.mulgagidgee.com.au/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 05 Jun 2016 12:26:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2016 05:03:21 GMT</lastBuildDate>
         <atom:link href="http://www.mulgagidgee.com.au/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Contact ]]></title>
+            <description><![CDATA[<article><h1>Contact </h1><p>GPO Box 3809 DARWIN NT 0801</p></article>]]></description>
+            <link>http://www.mulgagidgee.com.au/contact/index.html</link>
+            <guid isPermaLink="false">39d674ab-7956-4333-bfa1-6fbcbf523b82</guid>
+            <pubDate>Sat, 30 Jul 2016 05:03:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Values]]></title>
             <description><![CDATA[<p>It's all about relationships</p>]]></description>
@@ -19,13 +26,6 @@
             <link>http://www.mulgagidgee.com.au/about/index.html</link>
             <guid isPermaLink="false">fce35296-9b68-4211-9705-c27a6742a521</guid>
             <pubDate>Mon, 30 May 2016 01:16:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Contact ]]></title>
-            <description><![CDATA[<article><h1>Contact </h1><p>GPO Box 3809 DARWIN NT 0801</p></article>]]></description>
-            <link>http://www.mulgagidgee.com.au/contact/index.html</link>
-            <guid isPermaLink="false">39d674ab-7956-4333-bfa1-6fbcbf523b82</guid>
-            <pubDate>Wed, 18 May 2016 23:05:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
