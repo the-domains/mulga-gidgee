@@ -1,15 +1,15 @@
-typography_spectrum: 0.5214106731582433
+typography_spectrum: 0.50147
 color:
   brandColors:
-    - '#468966'
-    - '#FFF0A5'
-    - '#FFB03B'
-    - '#B64926'
-    - '#8E2800'
-  brandStrength: 0.03249057428911328
-  lightness: 0.8653558329679072
-  saturation: 0.11052828654646873
-  rhythmicContrast: 0.9030247360933572
+    - '#000000'
+    - '#ff7d0c'
+    - '#ffffff'
+    - '#ff0000'
+    - '#6f4d16'
+  brandStrength: 1
+  lightness: 0.75
+  saturation: 0
+  rhythmicContrast: 1
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/9825bcb0-9727-4a44-81c0-a5a276b80cd0.jpg
@@ -21,9 +21,9 @@ analytics:
   facebook: null
   twitter: null
 author:
-  name: Mulga Gidgee
-  email: annie@mulgagidgee.com.au
-  url: www.mulgagidgee.com.au
+  name: ''
+  email: ''
+  url: ''
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a299b7f-614d-4999-a8bb-38c28ed7afae.jpg
 name: Mulga Gidgee
