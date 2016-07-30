@@ -13,12 +13,18 @@ color:
 opengraph:
   image: null
   type: null
-  appId: null
+  appId: '223199047728265'
 layout_spectrum: 0.33128
 analytics:
   google: UA-72902203-2
   facebook: null
   twitter: null
+author:
+  name: Annie McCall
+  email: annie@mulgagidgee.com.au
+  url: www.mulgagidgee.com.au
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a299b7f-614d-4999-a8bb-38c28ed7afae.jpg
 name: Mulga Gidgee
 cta:
   domain: null
@@ -38,6 +44,6 @@ navigation:
     id: 39d674ab-7956-4333-bfa1-6fbcbf523b82
     type: content
 favicon: null
-title: Mulga Gidgee
+title: It's all about relationships
 description: It's all about relationships
 purpose: []
