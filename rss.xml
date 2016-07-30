@@ -4,7 +4,7 @@
         <description><![CDATA[Mulga Gidgee]]></description>
         <link>http://www.mulgagidgee.com.au/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jul 2016 06:47:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2016 06:49:35 GMT</lastBuildDate>
         <atom:link href="http://www.mulgagidgee.com.au/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Services]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.mulgagidgee.com.au/services/index.html</link>
             <guid isPermaLink="false">ba3aa7b5-2b7b-4050-be5b-56fb1bf79e4b</guid>
             <pubDate>Sat, 30 Jul 2016 06:47:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[About]]></title>
+            <description><![CDATA[<article><h1>About</h1><h2>Scott McCall</h2><p>Scott has worked in the Indigenous employment and training sector for over 20 years. In that time he has held positions in urban, regional and remote areas throughout NSW, Qld and the NT in government, non-government and corporate environments. Before establishing Mulga Gidgee Scott was with Qantas managing their Indigenous programs amongst other diversity initiatives; prior to that he was the CEO of an Indigenous RTO based in Arnhem Land NT.</p></article>]]></description>
+            <link>http://www.mulgagidgee.com.au/about/index.html</link>
+            <guid isPermaLink="false">fce35296-9b68-4211-9705-c27a6742a521</guid>
+            <pubDate>Sat, 30 Jul 2016 06:49:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Yirrkala Healing Centre ]]></title>
@@ -26,13 +33,6 @@
             <link>http://www.mulgagidgee.com.au/values/index.html</link>
             <guid isPermaLink="false">0b1c21ed-9371-49cd-87b2-0c39d871e934</guid>
             <pubDate>Sat, 30 Jul 2016 05:34:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[About]]></title>
-            <description><![CDATA[<article><h1>About</h1><h2>Scott McCall</h2><p>Scott has worked in the Indigenous employment and training sector for over 20 years. In that time he has held positions in urban, regional and remote areas throughout NSW, Qld and the NT in government, non-government and corporate environments. Before establishing Mulga Gidgee Scott was with Qantas managing their Indigenous programs amongst other diversity initiatives; prior to that he was the CEO of an Indigenous RTO based in Arnhem Land NT.</p></article>]]></description>
-            <link>http://www.mulgagidgee.com.au/about/index.html</link>
-            <guid isPermaLink="false">fce35296-9b68-4211-9705-c27a6742a521</guid>
-            <pubDate>Sat, 30 Jul 2016 05:33:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Contact ]]></title>
