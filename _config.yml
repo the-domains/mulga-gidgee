@@ -31,6 +31,9 @@ navigation:
   - name: Services
     id: ba3aa7b5-2b7b-4050-be5b-56fb1bf79e4b
     type: content
+  - name: 'Contact '
+    id: 39d674ab-7956-4333-bfa1-6fbcbf523b82
+    type: content
 favicon: null
 title: Mulga Gidgee
 description: It's all about relationships
