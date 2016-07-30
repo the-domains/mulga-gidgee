@@ -1,20 +1,4 @@
-name: Mulga Gidgee
-favicon: null
-layout_spectrum: 0.33128
 typography_spectrum: 0.50147
-title: Mulga Gidgee
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-72902203-2
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#000000'
@@ -26,4 +10,21 @@ color:
   lightness: 0.75
   saturation: 0
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.33128
+analytics:
+  google: UA-72902203-2
+  facebook: null
+  twitter: null
+name: Mulga Gidgee
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Mulga Gidgee
+description: It's all about relationships
 purpose: []
