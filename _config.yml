@@ -12,7 +12,7 @@ color:
   rhythmicContrast: 1
 opengraph:
   image: null
-  type: null
+  type: 'https://www.facebook.com/mulgagidgee/'
   appId: '470015966470932'
 layout_spectrum: 0.33128
 analytics:
