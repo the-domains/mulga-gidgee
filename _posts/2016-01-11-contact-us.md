@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
 description: GPO Box 3809 DARWIN NT 0801
-datePublished: '2016-07-30T07:58:40.583Z'
-dateModified: '2016-07-30T07:58:39.575Z'
+datePublished: '2016-07-30T08:03:45.922Z'
+dateModified: '2016-07-30T08:03:39.847Z'
 title: 'Contact '
 author: []
 sourcePath: _posts/2016-01-11-contact-us.md
@@ -15,7 +15,7 @@ authors: []
 publisher: {}
 starred: false
 url: contact/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Contact 
