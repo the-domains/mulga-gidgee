@@ -11,11 +11,11 @@ description: ''
 app_links: []
 isBasedOnUrl: 'https://drive.google.com/open?id=0B14KnbWzTE1RNlBDcG1XVUxIUDA'
 title: The Five Rights - A framework for community engagement.pdf
-datePublished: '2016-07-31T03:16:26.675Z'
-dateModified: '2016-07-31T03:16:25.884Z'
+datePublished: '2016-07-31T03:16:30.296Z'
+dateModified: '2016-07-31T03:16:29.840Z'
 via: {}
 sourcePath: _posts/2016-07-31-the-five-rights-a-framework-for-community-engagementpdf.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
