@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-07-31T10:21:08.916Z'
+datePublished: '2016-07-31T10:21:28.421Z'
 sourcePath: _posts/2016-07-31-mulga-gidgee-capability-statementpdf.md
 isBasedOnUrl: 'https://drive.google.com/open?id=0B14KnbWzTE1ReGstWGFOMzc2QkU'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-07-31T10:21:07.746Z'
+dateModified: '2016-07-31T10:21:27.608Z'
 title: Capability Statement
 app_links: []
 publisher:
