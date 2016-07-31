@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-07-31T03:16:50.086Z'
+datePublished: '2016-07-31T03:18:09.915Z'
 sourcePath: _posts/2016-07-31-mulga-gidgee-capability-statementpdf.md
 isBasedOnUrl: 'https://drive.google.com/open?id=0B14KnbWzTE1ReGstWGFOMzc2QkU'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-07-31T03:16:49.632Z'
+dateModified: '2016-07-31T03:18:09.119Z'
 title: Mulga Gidgee Capability Statement.pdf
 app_links: []
 publisher:
@@ -15,7 +15,7 @@ publisher:
   favicon: 'https://ssl.gstatic.com/docs/doclist/images/icon_14_pdf_favicon.ico'
   domain: drive.google.com
 description: ''
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
