@@ -11,11 +11,11 @@ description: ''
 app_links: []
 isBasedOnUrl: 'https://drive.google.com/open?id=0B14KnbWzTE1ReGstWGFOMzc2QkU'
 title: Mulga Gidgee Capability Statement.pdf
-datePublished: '2016-07-31T00:59:18.145Z'
-dateModified: '2016-07-31T00:59:01.993Z'
+datePublished: '2016-07-31T03:16:46.639Z'
+dateModified: '2016-07-31T03:16:45.846Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-07-31-mulga-gidgee-capability-statementpdf.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
