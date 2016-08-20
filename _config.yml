@@ -1,4 +1,5 @@
-typography_spectrum: 0.34550058911554515
+layout_spectrum: 0.9501493126153946
+typography_spectrum: 0.16215287963859737
 color:
   brandColors:
     - '#000000'
@@ -6,15 +7,14 @@ color:
     - '#FFFFFF'
     - '#FF0000'
     - '#FFFF00'
-  brandStrength: 0.22439775546081364
-  lightness: 0.9504624798428267
-  saturation: 0.7601808907929808
-  rhythmicContrast: 0.2638307169545442
+  brandStrength: 0.6436708210967481
+  lightness: 0.26142887747846544
+  saturation: 0.7389387229923159
+  rhythmicContrast: 0.11285125580616295
 opengraph:
   image: null
   type: 'https://www.facebook.com/mulgagidgee/'
   appId: '470015966470932'
-layout_spectrum: 0.17694497387856245
 analytics:
   google: UA-72902203-2
   facebook: null
