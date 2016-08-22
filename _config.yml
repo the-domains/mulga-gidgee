@@ -31,9 +31,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Values
-    id: 0b1c21ed-9371-49cd-87b2-0c39d871e934
-    type: content
   - name: About
     id: fce35296-9b68-4211-9705-c27a6742a521
     type: content
