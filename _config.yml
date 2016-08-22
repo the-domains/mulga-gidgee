@@ -30,10 +30,6 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: 'Contact '
-    id: 39d674ab-7956-4333-bfa1-6fbcbf523b82
-    type: content
 favicon: null
 title: Mulga Gidgee
 description: It's all about relationships
